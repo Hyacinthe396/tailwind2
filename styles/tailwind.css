@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* @layer utilities {
+    .h-578 {
+      height: 578px;
+    }
+    .w-600 {
+        width: 600px;
+    }
+  } */
+
+  
